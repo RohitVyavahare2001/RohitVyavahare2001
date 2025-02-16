@@ -37,60 +37,52 @@
   </div>
 </div>
 
-<!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
-  Tech Stack
-</h2>
+<!-- Innovative Tech Stack Section -->
+<h2 align="center">🚀 Tech Universe</h2>
 
-<div align="center" style="background: linear-gradient(to bottom, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px;">
-  <!-- Programming & Databases -->
-  <div style="margin-bottom: 20px;">
-    <h3>⚡ Programming & Databases</h3>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" style="padding: 10px;"/>
-  </div>
-
-  <!-- ML/DL Frameworks -->
-  <div style="margin-bottom: 20px;">
-    <h3>🧠 ML/DL Frameworks</h3>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="padding: 10px;"/>
-  </div>
-
-  <!-- API Development -->
-  <div style="margin-bottom: 20px;">
-    <h3>🌐 API Development</h3>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding: 10px;"/>
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding: 10px;"/>
-  </div>
-
-  <!-- GenAI Tools -->
-  <div style="margin-bottom: 20px;">
-    <h3>🔮 GenAI Tools</h3>
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 20px;">
-      <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 15px; border-radius: 10px;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50px"/>
-        <p style="margin: 10px 0;">Hugging Face</p>
-      </div>
-      <div style="background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%); padding: 15px; border-radius: 10px;">
-        <img src="https://img.icons8.com/nolan/96/chatgpt.png" width="50px"/>
-        <p style="margin: 10px 0;">GPT Models</p>
-      </div>
-      <div style="background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%); padding: 15px; border-radius: 10px;">
-        <img src="https://img.icons8.com/clouds/100/000000/brain.png" width="50px"/>
-        <p style="margin: 10px 0;">LLaMA Models</p>
-      </div>
-      <div style="background: linear-gradient(135deg, #614385 0%, #516395 100%); padding: 15px; border-radius: 10px;">
-        <img src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="50px"/>
-        <p style="margin: 10px 0;">Claude & Groq</p>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <div style="background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%); border-radius: 50%; padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+        </div>
+        Python
+      </td>
+      <td align="center">
+        <div style="background: linear-gradient(45deg, #4CAF50, #2196F3); border-radius: 50%; padding: 15px;">
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+        </div>
+        PyTorch
+      </td>
+      <td align="center">
+        <div style="background: linear-gradient(45deg, #FF9800, #FF5722); border-radius: 50%; padding: 15px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+        </div>
+        TensorFlow
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <div style="background: linear-gradient(45deg, #9C27B0, #673AB7); border-radius: 50%; padding: 15px;">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+        </div>
+        Hugging Face
+      </td>
+      <td align="center">
+        <div style="background: linear-gradient(45deg, #E91E63, #9C27B0); border-radius: 50%; padding: 15px;">
+          <img src="https://img.icons8.com/nolan/96/chatgpt.png" width="40"/>
+        </div>
+        GPT Models
+      </td>
+      <td align="center">
+        <div style="background: linear-gradient(45deg, #3F51B5, #2196F3); border-radius: 50%; padding: 15px;">
+          <img src="https://img.icons8.com/clouds/100/000000/brain.png" width="40"/>
+        </div>
+        LLaMA
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
