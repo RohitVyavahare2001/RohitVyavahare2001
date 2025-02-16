@@ -29,32 +29,77 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
 
-<h2 align="center">🎯 Expertise</h2>
+<h2 align="center"> Expertise </h2>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center">
-      <img src="https://media2.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="100px" height="100px"/>
+    <td align="center" width="25%">
+      <img src="https://media2.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="120px" height="120px"/>
       <br />
       <b>Machine Learning</b>
+      <br />
+      <small>
+        • Predictive Modeling<br/>
+        • Statistical Analysis<br/>
+        • Feature Engineering<br/>
+        • Model Optimization
+      </small>
     </td>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100px" height="100px"/>
+    <td align="center" width="25%">
+      <img src="https://media0.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="120px" height="120px"/>
       <br />
       <b>Deep Learning</b>
-    </td>
-    <td align="center">
-      <img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100px" height="100px"/>
       <br />
-      <b>NLP</b>
+      <small>
+        • Neural Networks<br/>
+        • Computer Vision<br/>
+        • Transfer Learning<br/>
+        • Model Architecture
+      </small>
     </td>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px" height="100px"/>
+    <td align="center" width="25%">
+      <img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120px" height="120px"/>
+      <br />
+      <b>Natural Language Processing</b>
+      <br />
+      <small>
+        • LLM Fine-tuning<br/>
+        • Text Analytics<br/>
+        • Sentiment Analysis<br/>
+        • Language Models
+      </small>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="120px" height="120px"/>
       <br />
       <b>Generative AI</b>
+      <br />
+      <small>
+        • LLM Integration<br/>
+        • RAG Systems<br/>
+        • Prompt Engineering<br/>
+        • AI Applications
+      </small>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>🔥 Specialized Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/LLM_Development-FF4B4B?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MLOps-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Data_Engineering-FF6B6B?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI_Strategy-00C7B7?style=for-the-badge&logo=strategy&logoColor=white"/>
+  </p>
+  
+  <h3>💡 Industry Knowledge</h3>
+  <p>
+    <img src="https://img.shields.io/badge/AI_Product_Development-512BD4?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Enterprise_Solutions-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Technical_Leadership-2F80ED?style=for-the-badge"/>
+  </p>
+</div>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
