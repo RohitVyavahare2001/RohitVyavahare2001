@@ -66,3 +66,91 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&height=120&section=footer"/>
 </div>
+
+<!-- Neural Tech Matrix -->
+<div align="center">
+  <h2>🧠 NEURAL TECH MATRIX 🧠</h2>
+  
+  <table border="0" align="center">
+  <tr>
+    <td align="center" width="150" height="150">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+      <br>Neural Python
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="65" height="65" alt="PyTorch"/>
+      <br>Deep Learning
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="65" height="65" alt="TensorFlow"/>
+      <br>AI Framework
+    </td>
+  </tr>
+  </table>
+</div>
+
+<!-- AI Framework Matrix -->
+<div align="center">
+  <h2>⚡ AI FRAMEWORK MATRIX ⚡</h2>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Core AI Engines</h3>
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit--learn&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>LLM Framework</h3>
+        <img src="https://img.shields.io/badge/LangChain-%234B0082.svg?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/GPT--4-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Development Tools</h3>
+        <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Neural Synapses (Connections) -->
+<div align="center">
+  <h2>🔄 NEURAL SYNAPSES 🔄</h2>
+  
+  <a href="https://www.linkedin.com/in/rohitvyavahare2001">
+    <img src="https://img.shields.io/badge/Neural_Link-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohitvyavahare2001@gmail.com">
+    <img src="https://img.shields.io/badge/Neural_Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/RV_vyavahare">
+    <img src="https://img.shields.io/badge/Thought_Stream-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</div>
+
+<!-- System Status -->
+<div align="center">
+  <h2>⚡ SYSTEM STATUS ⚡</h2>
+  
+  ```ascii
+  ╔════════════════════════════════════╗
+  ║ NEURAL STATUS: FULLY OPERATIONAL    ║
+  ║ AI COHERENCE: 100%                 ║
+  ║ LEARNING MODE: ACTIVE              ║
+  ║ INNOVATION LEVEL: MAXIMUM          ║
+  ╚════════════════════════════════════╝
+  ```
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohitvyavahare2001&label=Neural+Visitors&color=00ff00&style=flat" alt="visitor count" />
+</div>
