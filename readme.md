@@ -56,17 +56,6 @@
   </tr>
 </table>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="your-insurance-project-link">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitVyavahare2001&repo=Insurance_Claim_Prediction&theme=tokyonight"/>
-  </a>
-  <a href="your-rag-project-link">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RohitVyavahare2001&repo=RAG_Ecommerce&theme=tokyonight"/>
-  </a>
-</div>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -80,7 +69,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RohitVyavahare2001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rohitvyavahare2001/">
@@ -89,8 +78,8 @@
   <a href="mailto:rohitvyavahare2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/RohitVyavahare2001">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://x.com/RV_vyavahare">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
