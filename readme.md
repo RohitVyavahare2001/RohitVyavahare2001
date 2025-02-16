@@ -9,52 +9,71 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<h2 align="center">🤖 AI & Data Science Arsenal</h2>
+<!-- New 3D Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px">
+  Tech Arsenal
+</h2>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA-A100FF?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FAISS-3498DB?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=redis&logoColor=white"/>
+<div align="center" style="background: linear-gradient(to bottom, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; margin: 20px;">
+  <!-- AI/ML Section -->
+  <div style="margin-bottom: 20px;">
+    <h3>🤖 AI & ML</h3>
+    <a href="#"><img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding: 10px;"/></a>
+    <a href="#"><img width="80px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="padding: 10px;"/></a>
+    <a href="#"><img width="80px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="padding: 10px;"/></a>
+    <img width="80px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" style="padding: 10px;"/>
+  </div>
+
+  <!-- GenAI Tools Section with 3D Effect -->
+  <div style="transform-style: preserve-3d; perspective: 1000px;">
+    <div style="margin: 20px; transform: rotateX(10deg);">
+      <h3>🔮 GenAI Tools</h3>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 20px;">
+        <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+          <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50px"/>
+          <p style="margin: 10px 0;">LangChain</p>
+        </div>
+        <div style="background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+          <img src="https://img.icons8.com/clouds/100/000000/brain.png" width="50px"/>
+          <p style="margin: 10px 0;">LLaMA</p>
+        </div>
+        <div style="background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+          <img src="https://img.icons8.com/nolan/96/chatgpt.png" width="50px"/>
+          <p style="margin: 10px 0;">GPT</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Animated Skills Meter -->
+  <div style="margin-top: 30px;">
+    <h3>💡 Expertise Level</h3>
+    <div style="background: #1a1a1a; padding: 20px; border-radius: 10px;">
+      <div style="margin: 10px 0;">
+        <span>Machine Learning</span>
+        <div style="background: #2d2d2d; height: 20px; border-radius: 10px; overflow: hidden;">
+          <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #3494E6, #EC6EAD); animation: slideIn 2s ease-out;">
+          </div>
+        </div>
+      </div>
+      <div style="margin: 10px 0;">
+        <span>Deep Learning</span>
+        <div style="background: #2d2d2d; height: 20px; border-radius: 10px; overflow: hidden;">
+          <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #3494E6, #EC6EAD); animation: slideIn 2s ease-out;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</div>
-
-<h2 align="center">🎯 Expertise</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media2.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="100px" height="100px"/>
-      <br />
-      <b>Machine Learning</b>
-    </td>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100px" height="100px"/>
-      <br />
-      <b>Deep Learning</b>
-    </td>
-    <td align="center">
-      <img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100px" height="100px"/>
-      <br />
-      <b>NLP</b>
-    </td>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100px" height="100px"/>
-      <br />
-      <b>Generative AI</b>
-    </td>
-  </tr>
-</table>
+<style>
+@keyframes slideIn {
+  from { width: 0; }
+  to { width: 100%; }
+}
+</style>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
