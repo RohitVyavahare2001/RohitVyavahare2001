@@ -176,3 +176,113 @@
     </tr>
   </table>
 </div>
+
+<!-- AI Arsenal Matrix -->
+<h2>🧠 AI ARSENAL MATRIX 🧠</h2>
+
+<table border="0" align="center">
+<tr>
+  <td align="center" width="150">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+    <br>Neural Core
+  </td>
+  <td align="center" width="150">
+    <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="65" height="65" alt="PyTorch"/>
+    <br>Deep Learning
+  </td>
+  <td align="center" width="150">
+    <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="65" height="65" alt="TensorFlow"/>
+    <br>AI Framework
+  </td>
+</tr>
+</table>
+
+<!-- Tech Evolution Timeline -->
+<h2>⚡ NEURAL EVOLUTION MATRIX ⚡</h2>
+
+<table>
+<tr>
+  <td align="center">
+    <h3>2022: Neural Genesis</h3>
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <br>Foundation Establishment
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <h3>2023: Deep Learning Ascension</h3>
+    <img src="https://img.shields.io/badge/Machine_Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Deep_Learning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NLP-%23311C87.svg?style=for-the-badge&logo=natural-language-processing&logoColor=white"/>
+    <br>Neural Architecture Mastery
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <h3>2024: GenAI Revolution</h3>
+    <img src="https://img.shields.io/badge/LangChain-%234B0082.svg?style=for-the-badge&logo=chainlink&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLMs-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Generative_AI-%23FF9900.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+    <br>AI Innovation Expansion
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <h3>2025: AI Agents Emergence</h3>
+    <img src="https://img.shields.io/badge/AI_Agents-%23FF0000.svg?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Autonomous_Systems-%23000000.svg?style=for-the-badge&logo=autonomous&logoColor=white"/>
+    <br>Future Trajectory
+  </td>
+</tr>
+</table>
+
+<!-- Tech Stack Matrix -->
+<h2>🌌 NEURAL TECH MATRIX 🌌</h2>
+
+<table>
+<tr>
+  <td align="center"><h3>AI/ML Frameworks</h3>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><h3>Data Processing</h3>
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Seaborn-%23776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><h3>GenAI Tools</h3>
+    <img src="https://img.shields.io/badge/LangChain-%234B0082.svg?style=for-the-badge&logo=chainlink&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GPT--4-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLaMA-%23FF9900.svg?style=for-the-badge&logo=meta&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><h3>Development</h3>
+    <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  </td>
+</tr>
+</table>
+
+<!-- Neural Links -->
+<h2>🔮 NEURAL LINKS 🔮</h2>
+
+<a href="https://www.linkedin.com/in/rohitvyavahare2001">
+  <img src="https://img.shields.io/badge/Neural_Link-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rohitvyavahare2001@gmail.com">
+  <img src="https://img.shields.io/badge/Neural_Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://x.com/RV_vyavahare">
+  <img src="https://img.shields.io/badge/Neural_Stream-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<!-- System Status -->
