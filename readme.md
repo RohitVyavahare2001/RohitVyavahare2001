@@ -1,111 +1,117 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=200&section=header&text=Rohit%20Vyavahare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20AI%20Engineer%20|%20GenAI%20Expert&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:0000FF&height=200&section=header&text=Rohit%20Vyavahare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20LLM%20Expert%20|%20Data%20Scientist&descAlignY=55&descAlign=50"/>
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3494E6&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future+with+AI;Transforming+Data+into+Intelligence;Expert+in+GenAI+and+LLMs;Passionate+about+Innovation" />
+  <!-- Neural Network Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Training+Neural+Networks;Engineering+LLM+Solutions;Crafting+AI+Experiences" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- Neural Network Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- AI Core Skills -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  AI Core Competencies
+</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px;">
+  <!-- Machine Learning Card -->
+  <div style="background: linear-gradient(45deg, #001, #003); border: 1px solid #0F0; border-radius: 10px; padding: 15px;">
+    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="70px"/>
+    <h3 style="color: #0F0;">Machine Learning</h3>
+    <ul style="list-style: none; padding: 0; color: #0F0;">
+      <li>• Predictive Modeling</li>
+      <li>• Classification/Regression</li>
+      <li>• Ensemble Methods</li>
+    </ul>
+  </div>
+  
+  <!-- Deep Learning Card -->
+  <div style="background: linear-gradient(45deg, #001, #003); border: 1px solid #0F0; border-radius: 10px; padding: 15px;">
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="70px"/>
+    <h3 style="color: #0F0;">Deep Learning</h3>
+    <ul style="list-style: none; padding: 0; color: #0F0;">
+      <li>• Neural Networks</li>
+      <li>• CNN/RNN/LSTM</li>
+      <li>• Transformers</li>
+    </ul>
+  </div>
+  
+  <!-- NLP Card -->
+  <div style="background: linear-gradient(45deg, #001, #003); border: 1px solid #0F0; border-radius: 10px; padding: 15px;">
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="70px"/>
+    <h3 style="color: #0F0;">NLP</h3>
+    <ul style="list-style: none; padding: 0; color: #0F0;">
+      <li>• Text Analysis</li>
+      <li>• Language Models</li>
+      <li>• BERT/GPT</li>
+    </ul>
+  </div>
+  
+  <!-- GenAI Card -->
+  <div style="background: linear-gradient(45deg, #001, #003); border: 1px solid #0F0; border-radius: 10px; padding: 15px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM3NmRiZjBiZGM5MDRiZTBiZjJkZGZiZmY3MzRkYzJmMDYwZTZiYiZjdD1z/IPbS5R4fSUl5S/giphy.gif" width="70px"/>
+    <h3 style="color: #0F0;">GenAI</h3>
+    <ul style="list-style: none; padding: 0; color: #0F0;">
+      <li>• LLMs</li>
+      <li>• RAG Systems</li>
+      <li>• Fine-tuning</li>
+    </ul>
+  </div>
 </div>
 
-<!-- Core Skills Section -->
-<h2 align="center">🎯 Core Expertise</h2>
+<!-- AI Tools & Technologies -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  Neural Arsenal
+</h2>
 
-<div align="center" style="background: linear-gradient(to bottom, #0a0c10, #1a1f29); padding: 20px; border-radius: 15px; margin: 20px;">
-  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin: 20px;">
-    <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <img src="https://media2.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="80px"/>
-      <h3 style="color: white; margin: 10px 0;">Machine Learning</h3>
-      <p style="color: #ccc; font-size: 14px;">Predictive Modeling, Classification, Regression</p>
+<div align="center" style="background: #001; border-radius: 20px; padding: 20px; margin: 20px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Framework Cluster -->
+    <div style="background: linear-gradient(45deg, #000, #002); border: 1px solid #0F0; border-radius: 15px; padding: 15px; width: 300px;">
+      <h3 style="color: #0F0;">🧠 AI Frameworks</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" title="PyTorch"/>
+        <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="40" title="TensorFlow"/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face"/>
+        <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" width="60" title="Scikit-learn"/>
+      </div>
     </div>
-    <div style="background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <img src="https://media0.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="80px"/>
-      <h3 style="color: white; margin: 10px 0;">Deep Learning</h3>
-      <p style="color: #ccc; font-size: 14px;">Neural Networks, CNN, RNN, Transformers</p>
+    
+    <!-- LLM Models -->
+    <div style="background: linear-gradient(45deg, #000, #002); border: 1px solid #0F0; border-radius: 15px; padding: 15px; width: 300px;">
+      <h3 style="color: #0F0;">🤖 LLM Models</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://img.icons8.com/nolan/64/chatgpt.png" width="40" title="GPT"/>
+        <img src="https://img.icons8.com/clouds/100/000000/brain.png" width="40" title="LLaMA"/>
+        <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="40" title="Claude"/>
+        <img src="https://img.icons8.com/nolan/64/crystal-oscillator.png" width="40" title="Groq"/>
+      </div>
     </div>
-    <div style="background: linear-gradient(135deg, #4e54c8 0%, #8f94fb 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <img src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px"/>
-      <h3 style="color: white; margin: 10px 0;">NLP</h3>
-      <p style="color: #ccc; font-size: 14px;">Text Analysis, Language Models, BERT</p>
-    </div>
-    <div style="background: linear-gradient(135deg, #614385 0%, #516395 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80px"/>
-      <h3 style="color: white; margin: 10px 0;">GenAI</h3>
-      <p style="color: #ccc; font-size: 14px;">LLMs, Diffusion Models, RAG</p>
+    
+    <!-- Tools & APIs -->
+    <div style="background: linear-gradient(45deg, #000, #002); border: 1px solid #0F0; border-radius: 15px; padding: 15px; width: 300px;">
+      <h3 style="color: #0F0;">⚡ Tools & APIs</h3>
+      <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" title="Flask"/>
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="80" title="FastAPI"/>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" title="MongoDB"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+      </div>
     </div>
   </div>
 </div>
 
-<!-- Innovative Tech Stack Section -->
-<h2 align="center">🚀 Tech Universe</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <div style="background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%); border-radius: 50%; padding: 15px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-        </div>
-        Python
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(45deg, #4CAF50, #2196F3); border-radius: 50%; padding: 15px;">
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-        </div>
-        PyTorch
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(45deg, #FF9800, #FF5722); border-radius: 50%; padding: 15px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-        </div>
-        TensorFlow
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <div style="background: linear-gradient(45deg, #9C27B0, #673AB7); border-radius: 50%; padding: 15px;">
-          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-        </div>
-        Hugging Face
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(45deg, #E91E63, #9C27B0); border-radius: 50%; padding: 15px;">
-          <img src="https://img.icons8.com/nolan/96/chatgpt.png" width="40"/>
-        </div>
-        GPT Models
-      </td>
-      <td align="center">
-        <div style="background: linear-gradient(45deg, #3F51B5, #2196F3); border-radius: 50%; padding: 15px;">
-          <img src="https://img.icons8.com/clouds/100/000000/brain.png" width="40"/>
-        </div>
-        LLaMA
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=RohitVyavahare2001&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitVyavahare2001&theme=tokyonight&hide_border=true"/>
-</p>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitVyavahare2001&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
-<h2 align="center">🤝 Let's Connect</h2>
+<!-- Connect Section -->
+<h2 align="center">🔮 Neural Links</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rohitvyavahare2001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000"/>
   </a>
   <a href="mailto:rohitvyavahare2001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=000000"/>
   </a>
   <a href="https://x.com/RV_vyavahare">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -113,5 +119,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC6EAD,100:3494E6&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FF00&height=120&section=footer"/>
 </div>
