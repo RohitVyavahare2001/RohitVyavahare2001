@@ -154,3 +154,25 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohitvyavahare2001&label=Neural+Visitors&color=00ff00&style=flat" alt="visitor count" />
 </div>
+
+<!-- Neural Enhancement Modules -->
+<div align="center">
+  <h2>🧠 NEURAL ENHANCEMENT MATRIX 🧠</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/l4FGrYKtP0pBGpBAY/giphy.gif" width="100%">
+        <h3>Deep Learning Core</h3>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
+        <h3>AI Neural Network</h3>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="100%">
+        <h3>GenAI System</h3>
+      </td>
+    </tr>
+  </table>
+</div>
