@@ -9,12 +9,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:002244&height=180&section=header&text=Rohit%20Vyavahare&fontSize=75&animation=fadeIn&fontAlignY=42&fontColor=FFFFFF&fontAlign=50"/>
 </div>
 
-<!-- Decorative Break Line with Glowing Effect -->
+<!-- Sleek Glowing Break Line -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212318091-2d3b02f2-7788-4bb5-b597-2bd1f2c72b58.gif" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213881818-1e9371f0-9c40-4b8b-9baf-d7292b05a72c.gif" width="100%"/>
 </div>
-
-
 
 <!-- My Tech Stack -->
 <div align="center">
@@ -33,9 +31,17 @@
     box-shadow: 0px 0px 15px #3CE0F7;
   ">
     <tr>
-      <td width="50%" style="border: 2px solid #3CE0F7; padding: 10px;">
+      <td width="50%" style="border: 2px solid #3CE0F7; padding: 15px;">
         <div align="center">
-          <pre>
+          <pre style="
+            font-size: 18px; 
+            font-family: 'Courier New', Consolas, monospace; 
+            color: #3CE0F7;
+            background-color: #0d1117;
+            padding: 10px;
+            border-radius: 8px;
+            display: inline-block;
+          ">
 model.compile(
   life = "Coding",
   passion = "AI",
@@ -44,9 +50,17 @@ model.compile(
           <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200px"/>
         </div>
       </td>
-      <td width="50%" style="border: 2px solid #3CE0F7; padding: 10px;">
+      <td width="50%" style="border: 2px solid #3CE0F7; padding: 15px;">
         <div align="center">
-          <pre>
+          <pre style="
+            font-size: 18px; 
+            font-family: 'Courier New', Consolas, monospace; 
+            color: #3CE0F7;
+            background-color: #0d1117;
+            padding: 10px;
+            border-radius: 8px;
+            display: inline-block;
+          ">
 while alive:
     eat()
     sleep()
