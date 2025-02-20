@@ -1,3 +1,5 @@
+<div align="center">
+
 <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning;NLP+Engineer;LLM's;Agents" />
   </h3>
@@ -7,13 +9,8 @@
 
 
 
-
-
-
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=200&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=150&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
 
 
 
@@ -21,7 +18,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3>💻 Coding Life</h3>
+        
         <div align="center">
           <pre>
 model.compile(
@@ -33,7 +30,7 @@ model.compile(
         </div>
       </td>
       <td width="50%">
-        <h3>🧠 Neural Networks</h3>
+        
         <div align="center">
           <pre>
 while alive:
@@ -49,10 +46,3 @@ while alive:
 </div>
 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohitvyavahare2001&label=Neural+Network+Visits&color=brightgreen" alt="Profile Views">
-  
-  <!-- Current Training Status -->
-  <h3>🤖 Current Training Status:</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Training+Accuracy:+98.7%25;Loss+Rate:+0.013;Status:+Optimizing+Neural+Pathways" alt="Typing SVG" />
-</div>
