@@ -8,6 +8,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=150&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
 </div>
 
+<!-- My Tech Stack -->
+<div align="center">
+  <h2>🚀 My Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
+</div>
+
 <div align="center">
   <table>
     <tr>
