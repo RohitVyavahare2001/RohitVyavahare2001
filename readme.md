@@ -9,6 +9,9 @@
 
 
 
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=150&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
 
