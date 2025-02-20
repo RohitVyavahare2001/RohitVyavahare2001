@@ -14,10 +14,12 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
 </div>
 
+<br><br>
+
 <div align="center">
-  <table>
+  <table style="border: 2px solid #3CE0F7; border-radius: 10px; padding: 15px; background-color: #0d1117;">
     <tr>
-      <td width="50%">
+      <td width="50%" style="border: 1px solid #3CE0F7;">
         <div align="center">
           <pre>
 model.compile(
@@ -28,7 +30,7 @@ model.compile(
           <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200px"/>
         </div>
       </td>
-      <td width="50%">
+      <td width="50%" style="border: 1px solid #3CE0F7;">
         <div align="center">
           <pre>
 while alive:
