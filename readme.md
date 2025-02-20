@@ -1,25 +1,39 @@
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning;NLP+Engineer;LLM's;Agents" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning+Expert;NLP+Engineer;LLM+Architect;Generative+AI+Developer;Vector+Database+Expert;Cloud+Computing+(GCP+|+AWS);Optimizing+AI+Models+for+Production;Transforming+Data+into+Intelligence"/>
   </h3>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=150&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
+  <!-- Improved Animated Header with Glow Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:002244&height=180&section=header&text=Rohit%20Vyavahare&fontSize=75&animation=fadeIn&fontAlignY=42&fontColor=FFFFFF&fontAlign=50"/>
 </div>
+
+<!-- Decorative Break Line with Glowing Effect -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212318091-2d3b02f2-7788-4bb5-b597-2bd1f2c72b58.gif" width="100%"/>
+</div>
+
+
 
 <!-- My Tech Stack -->
 <div align="center">
-  <h2>🚀 My Tech Stack</h2>
+  <h2> My Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
 </div>
 
 <br><br>
 
 <div align="center">
-  <table style="border: 2px solid #3CE0F7; border-radius: 10px; padding: 15px; background-color: #0d1117;">
+  <table style="
+    border: 4px solid #3CE0F7; 
+    border-radius: 15px; 
+    padding: 20px; 
+    background-color: #0d1117;
+    box-shadow: 0px 0px 15px #3CE0F7;
+  ">
     <tr>
-      <td width="50%" style="border: 1px solid #3CE0F7;">
+      <td width="50%" style="border: 2px solid #3CE0F7; padding: 10px;">
         <div align="center">
           <pre>
 model.compile(
@@ -30,7 +44,7 @@ model.compile(
           <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="200px"/>
         </div>
       </td>
-      <td width="50%" style="border: 1px solid #3CE0F7;">
+      <td width="50%" style="border: 2px solid #3CE0F7; padding: 10px;">
         <div align="center">
           <pre>
 while alive:
@@ -38,11 +52,9 @@ while alive:
     sleep()
     code()
     repeat()</pre>
-          <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" height="200px"/>
+          <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="100%" height="200px"/>
         </div>
       </td>
     </tr>
   </table>
 </div>
-
-
