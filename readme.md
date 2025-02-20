@@ -9,16 +9,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:002244&height=180&section=header&text=Rohit%20Vyavahare&fontSize=75&animation=fadeIn&fontAlignY=42&fontColor=FFFFFF&fontAlign=50"/>
 </div>
 
+<!-- Sleek Glowing Break Line -->
 <div align="center">
-  <hr style="height: 3px; background: linear-gradient(to right, #00c6ff, #0072ff); border: none; width: 80%; box-shadow: 0px 0px 10px #0072ff;">
+  <img src="https://user-images.githubusercontent.com/74038190/213881818-1e9371f0-9c40-4b8b-9baf-d7292b05a72c.gif" width="100%"/>
 </div>
-
 
 <!-- My Tech Stack -->
 <div align="center">
   <h2> My Tech Stack</h2>
   <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,linux,postman,sklearn,vscode,&theme=dark&perline=6" width="600px"/>
   </p>
 </div>
 
