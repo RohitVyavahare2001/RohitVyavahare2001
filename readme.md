@@ -1,27 +1,17 @@
 <div align="center">
-
-<h3>
+  <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning;NLP+Engineer;LLM's;Agents" />
   </h3>
 </div>
 
-
-
-
-
-
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,13,35&height=150&section=header&text=Rohit%20Vyavahare&fontSize=90&animation=fadeIn&fontAlignY=45&fontColor=fff"/>
-
-
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        
         <div align="center">
           <pre>
 model.compile(
@@ -33,7 +23,6 @@ model.compile(
         </div>
       </td>
       <td width="50%">
-        
         <div align="center">
           <pre>
 while alive:
