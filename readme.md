@@ -1,21 +1,4 @@
-<!-- Matrix Rain Effect - Replace this comment with custom CSS when GitHub supports it -->
-<div align="center">
-
-![Matrix Rain](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
-
-```ascii
-╔══════════════════════════════════════════╗
-║ Machine Learning Specialist                ║
-║ AI AGENTS          ║
-║ Deep Learning Engineer      ║
-║ NLP Engineer  
-DATA SCIENTIST    ║
-╚══════════════════════════════════════════╝  
-  
-  
-  
-  
-  <h3>
+<h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;Machine+Learning+Specialist;Deep+Learning;NLP+Engineer;LLM's;Agents" />
   </h3>
 </div>
