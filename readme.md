@@ -18,7 +18,7 @@
 <div align="center">
   <h2> My Tech Stack</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,linux,postman,sklearn,vscode,&theme=dark&perline=6" width="600px"/>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,anaconda,azure,docker,cassandra,fastapi,flask,gcp,git,kubernetes,github,githubactions,ai,mongodb,mysql,opencv,postgres,linux,postman,sklearn,vscode&theme=dark&perline=6" width="600px"/>
   </p>
 </div>
 
@@ -83,5 +83,5 @@ while alive:
     <br>— <b>Alan Kay</b>
   </h3>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=500&lines=🚀+Exploring+New+Frontiers+in+AI!;💡+Innovating+One+Model+at+a+Time!;🔬+Advancing+Machine+Learning!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3CE0F7&center=true&vCenter=true&random=false&width=500&lines=Exploring+New+Frontiers+in+AI!;💡+Innovating+One+Model+at+a+Time!;Advancing+Machine+Learning!"/>
 </div>
